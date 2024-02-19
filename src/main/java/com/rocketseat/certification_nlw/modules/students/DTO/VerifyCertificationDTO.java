@@ -1,4 +1,4 @@
-package com.rocketseat.certification_nlw.DTO;
+package com.rocketseat.certification_nlw.modules.students.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
